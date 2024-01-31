@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-auth/auth-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-cache/cache-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-cache/cache-sdk-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-db/db-sdk-init/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-db/db-sdk-mp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-file/file-sdk-aliyun/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-file/file-sdk-tencent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-file/file-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-file/file-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-groovy/groovy-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-groovy/groovy-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-groovy/groovy-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-i18n/i18n-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-log/log-business-login-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-log/log-business-requestapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-log/log-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-log/log-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-mongodb/mongodb-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-mongodb/mongodb-integration-beetl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-mongodb/mongodb-integration-beetl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-mongodb/mongodb-sdk-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-office/office-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-security/security-sdk-black-white/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-security/security-sdk-captcha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-security/security-sdk-cors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-security/security-sdk-count/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-security/security-sdk-database-field/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-timer/timer-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-timer/timer-sdk-hutool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-timer/timer-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-timer/timer-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-validator/validator-api-table-unique/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-validator/validator-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-validator/validator-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-wrapper/wrapper-field-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-wrapper/wrapper-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-d-wrapper/wrapper-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-o-monitor/monitor-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-dict/dict-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-dict/dict-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-expand/expand-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-expand/expand-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-migration/migration-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-system/system-business-menu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-system/system-business-notice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-system/system-business-resource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-system/system-integration-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_core/kernel-s-system/system-integration-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>

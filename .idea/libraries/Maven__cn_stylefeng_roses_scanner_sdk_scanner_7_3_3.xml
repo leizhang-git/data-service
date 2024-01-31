@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.stylefeng.roses:scanner-sdk-scanner:7.3.3">
+    <CLASSES>
+      <root url="jar://D:/mavenRepository/cn/stylefeng/roses/scanner-sdk-scanner/7.3.3/scanner-sdk-scanner-7.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mavenRepository/cn/stylefeng/roses/scanner-sdk-scanner/7.3.3/scanner-sdk-scanner-7.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mavenRepository/cn/stylefeng/roses/scanner-sdk-scanner/7.3.3/scanner-sdk-scanner-7.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
