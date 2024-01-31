@@ -14,8 +14,8 @@
     <artifactId>guns</artifactId>
     <version>7.3.3</version>
 
-    <name>guns</name>
-    <description>Guns主项目</description>
+    <name>数据处理服务</name>
+    <description>data-service</description>
 
     <packaging>jar</packaging>
 
@@ -232,7 +232,7 @@
     </dependencies>
 
     <build>
-        <finalName>guns</finalName>
+        <finalName>data-service</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
