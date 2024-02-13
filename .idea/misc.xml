@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../sproject/trs_os/pom.xml" />
         <option value="$PROJECT_DIR$/data_core/pom.xml" />
       </list>
     </option>
@@ -18,9 +17,6 @@
         <option value="$PROJECT_DIR$/../sproject/trs_os/guns-base-support/guns-dbs/pom.xml" />
         <option value="$PROJECT_DIR$/../sproject/trs_os/guns-base-support/guns-etl/pom.xml" />
         <option value="$PROJECT_DIR$/../sproject/trs_os/guns-base-support/guns-system/pom.xml" />
-        <option value="$PROJECT_DIR$/../sproject/trs_os/guns-base-support/pom.xml" />
-        <option value="$PROJECT_DIR$/../sproject/trs_os/guns-main/pom.xml" />
-        <option value="$PROJECT_DIR$/../sproject/trs_os/pom.xml" />
       </set>
     </option>
   </component>

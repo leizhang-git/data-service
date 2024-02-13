@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09039f06-cc51-4d23-9c06-159c6695f570" name="Default Changelist" comment="" />
+    <list default="true" id="09039f06-cc51-4d23-9c06-159c6695f570" name="Default Changelist" comment="2024-01-31：首次上传项目">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/1-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/1-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/1ae18fee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/223a7ade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/49e229cb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/4e63346d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README_images/9f05f0d3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stylefeng/guns/GunsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stylefeng/guns/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stylefeng/guns/GunsServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stylefeng/guns/GunsServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/stylefeng/guns/core/consts/ProjectConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/stylefeng/guns/core/consts/ProjectConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/stylefeng/guns/GunsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/stylefeng/guns/GunsServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/stylefeng/guns/GunsServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/stylefeng/guns/core/consts/ProjectConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/stylefeng/guns/core/consts/ProjectConstants.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -35,18 +57,26 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data_core" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4770115" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ts.external.directory.path" value="D:\work\newCode\data-service\data_web\node_modules\typescript\lib" />
   </component>
   <component name="RunManager">
     <configuration name="GunsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="data-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.stylefeng.guns.GunsApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.stylefeng.guns.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,72 +93,116 @@
       <option name="presentableId" value="Default" />
       <updated>1706692630036</updated>
       <workItem from="1706692632501" duration="1428000" />
+      <workItem from="1706694264363" duration="2087000" />
+      <workItem from="1706749450107" duration="1240000" />
+      <workItem from="1706768815314" duration="15000" />
+      <workItem from="1706774510184" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="2024-01-31：首次上传项目">
+      <created>1706694540710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706694540710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024-01-31：修改名称">
+      <created>1706696329861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706696329861</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024-01-31：首次上传项目" />
+    <MESSAGE value="2024-01-31：修改名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-01-31：修改名称" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="61" width="1440" height="791" key="CommitChangelistDialog2" timestamp="1706696329231">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="0" y="61" width="1440" height="791" key="CommitChangelistDialog2/0.0.1440.852@0.0.1440.852" timestamp="1706696329231" />
+    <state x="139" y="100" key="DiffContextDialog" timestamp="1706696317604">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="139" y="100" key="DiffContextDialog/0.0.1440.852@0.0.1440.852" timestamp="1706696317604" />
     <state x="506" y="57" key="FileChooserDialogImpl" timestamp="1706692772119">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="506" y="57" key="FileChooserDialogImpl/0.0.1440.852@0.0.1440.852" timestamp="1706692772119" />
-    <state width="1390" height="265" key="GridCell.Tab.0.bottom" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.0.bottom" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.0.center" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.0.center" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.0.left" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.0.left" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.0.right" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.0.right" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.1.bottom" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.1.bottom" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.1.bottom/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.1.center" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.1.bottom/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.1.center" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.1.center/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.1.left" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.1.center/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.1.left" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.1.left/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.1.right" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.1.left/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.1.right" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.1.right/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.2.bottom" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.1.right/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.2.bottom" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.2.bottom/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.2.center" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.2.bottom/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.2.center" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.2.center/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.2.left" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.2.center/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.2.left" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.2.left/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
-    <state width="1390" height="265" key="GridCell.Tab.2.right" timestamp="1706694065012">
+    <state width="1390" height="265" key="GridCell.Tab.2.left/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
+    <state width="1390" height="265" key="GridCell.Tab.2.right" timestamp="1706753302649">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1390" height="265" key="GridCell.Tab.2.right/0.0.1440.852@0.0.1440.852" timestamp="1706694065012" />
+    <state width="1390" height="265" key="GridCell.Tab.2.right/0.0.1440.852@0.0.1440.852" timestamp="1706753302649" />
     <state x="242" y="61" key="NewModule_or_Project.wizard" timestamp="1706692773366">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="242" y="61" key="NewModule_or_Project.wizard/0.0.1440.852@0.0.1440.852" timestamp="1706692773366" />
-    <state x="136" y="0" key="SettingsEditor" timestamp="1706692777954">
+    <state x="102" y="2" key="SettingsEditor" timestamp="1706695492166">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state x="136" y="0" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1706692777954" />
+    <state x="102" y="2" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1706695492166" />
+    <state x="213" y="95" key="Vcs.Push.Dialog.v2" timestamp="1706696330783">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="213" y="95" key="Vcs.Push.Dialog.v2/0.0.1440.852@0.0.1440.852" timestamp="1706696330783" />
+    <state x="442" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1706695963457">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="442" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.852@0.0.1440.852" timestamp="1706695963457" />
+    <state x="299" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1706750017311">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="299" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1440.852@0.0.1440.852" timestamp="1706750017311" />
   </component>
 </project>

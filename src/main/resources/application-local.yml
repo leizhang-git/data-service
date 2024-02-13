@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://10.8.0.1:3306/data_service?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&serverTimezone=CTT&nullCatalogMeansCurrent=true
     username: root
-    password: xxxx
+    password: trsroot
 
     # 连接池大小根据实际情况调整
     max-active: 100

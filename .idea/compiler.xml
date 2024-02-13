@@ -7,61 +7,199 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="log-business-login-log" />
-        <module name="groovy-api" />
-        <module name="auth-api" />
-        <module name="data-service" />
-        <module name="security-sdk-database-field" />
-        <module name="file-sdk-aliyun" />
-        <module name="db-sdk-mp" />
+        <module name="demo-business" />
+        <module name="file-sdk-local" />
         <module name="security-sdk-black-white" />
-        <module name="system-business-notice" />
-        <module name="file-spring-boot-starter" />
+        <module name="jwt-api" />
+        <module name="email-spring-boot-starter" />
+        <module name="monitor-business-system-info" />
+        <module name="timer-spring-boot-starter" />
+        <module name="mongodb-integration-beetl" />
+        <module name="system-business-app" />
+        <module name="socket-business-websocket" />
+        <module name="migration-sdk-data-aggregation" />
+        <module name="db-sdk-init" />
+        <module name="sms-business-validation" />
+        <module name="config-sdk-map" />
+        <module name="log-sdk-file" />
+        <module name="email-sdk-java" />
+        <module name="i18n-sdk" />
+        <module name="log-spring-boot-starter" />
+        <module name="auth-sdk" />
+        <module name="socket-spring-boot-starter" />
+        <module name="kernel-a-rule" />
+        <module name="sms-api" />
+        <module name="pinyin-api" />
+        <module name="data-service" />
+        <module name="wrapper-field-sdk" />
+        <module name="office-sdk-excel" />
+        <module name="pinyin-sdk-pinyin4j" />
+        <module name="system-integration-beetl" />
+        <module name="ds-container-api" />
+        <module name="groovy-sdk" />
+        <module name="expand-api" />
+        <module name="expand-spring-boot-starter" />
+        <module name="security-spring-boot-starter" />
+        <module name="security-api" />
+        <module name="group-spring-boot-starter" />
+        <module name="security-sdk-xss" />
+        <module name="mongodb-sdk-springboot" />
+        <module name="file-sdk-minio" />
+        <module name="validator-api-table-unique" />
+        <module name="office-spring-boot-starter" />
+        <module name="db-sdk-mp" />
+        <module name="log-business-login-log" />
+        <module name="auth-api" />
+        <module name="monitor-api" />
+        <module name="customer-api" />
+        <module name="dict-business" />
+        <module name="system-business-organization" />
+        <module name="wrapper-spring-boot-starter" />
         <module name="mongodb-api" />
         <module name="security-sdk-count" />
-        <module name="cache-api" />
-        <module name="validator-api-table-unique" />
-        <module name="validator-spring-boot-starter" />
-        <module name="log-spring-boot-starter" />
-        <module name="system-integration-rest" />
-        <module name="mongodb-sdk-springboot" />
-        <module name="migration-api" />
-        <module name="timer-business" />
-        <module name="mongodb-integration-beetl" />
-        <module name="db-sdk-init" />
-        <module name="groovy-spring-boot-starter" />
-        <module name="log-business-requestapi" />
-        <module name="security-sdk-cors" />
-        <module name="system-business-menu" />
-        <module name="timer-sdk-hutool" />
-        <module name="monitor-api" />
-        <module name="cache-sdk-redis" />
-        <module name="i18n-api" />
-        <module name="dict-spring-boot-starter" />
-        <module name="timer-spring-boot-starter" />
-        <module name="wrapper-field-sdk" />
-        <module name="expand-spring-boot-starter" />
+        <module name="groovy-api" />
+        <module name="openapi-sdk-springdoc" />
+        <module name="validator-api" />
+        <module name="security-sdk-request-encrypt-and-decode" />
+        <module name="timer-api" />
+        <module name="customer-spring-boot-starter" />
+        <module name="db-spring-boot-starter" />
         <module name="system-business-resource" />
-        <module name="wrapper-spring-boot-starter" />
+        <module name="config-spring-boot-starter" />
+        <module name="system-business-menu" />
+        <module name="groovy-spring-boot-starter" />
+        <module name="redis-spring-boot-starter" />
+        <module name="message-api" />
+        <module name="scanner-sdk-scanner" />
+        <module name="dict-api" />
+        <module name="log-api" />
+        <module name="db-sdk-flyway" />
+        <module name="group-api" />
+        <module name="message-spring-boot-starter" />
+        <module name="system-business-home" />
+        <module name="seata-demo-wallet-api" />
+        <module name="jwt-spring-boot-starter" />
+        <module name="socket-api" />
         <module name="file-sdk-tencent" />
+        <module name="sms-spring-boot-starter" />
+        <module name="cache-api" />
+        <module name="system-business-user" />
+        <module name="log-sdk-db" />
+        <module name="config-sdk-redis" />
+        <module name="migration-business-web" />
+        <module name="file-spring-boot-starter" />
+        <module name="jwt-sdk" />
+        <module name="group-business" />
+        <module name="auth-spring-boot-starter" />
+        <module name="mongodb-spring-boot-starter" />
+        <module name="cache-sdk-memory" />
+        <module name="migration-spring-boot-starter" />
         <module name="office-api" />
+        <module name="message-business" />
+        <module name="wrapper-sdk" />
+        <module name="message-sdk-db" />
         <module name="security-sdk-captcha" />
+        <module name="timer-sdk-hutool" />
+        <module name="log-business-requestapi" />
+        <module name="security-sdk-database-field" />
+        <module name="config-api" />
+        <module name="monitor-spring-boot-starter" />
+        <module name="ds-container-business" />
+        <module name="log-business-manage" />
+        <module name="security-sdk-cors" />
+        <module name="system-spring-boot-starter" />
+        <module name="scanner-api" />
+        <module name="security-sdk-clear-threadlocal" />
+        <module name="email-api" />
+        <module name="system-business-theme" />
+        <module name="expand-business" />
+        <module name="i18n-api" />
+        <module name="i18n-spring-boot-starter" />
+        <module name="scanner-spring-boot-starter" />
+        <module name="demo-spring-boot-starter" />
+        <module name="migration-api" />
+        <module name="wrapper-api" />
+        <module name="validator-spring-boot-starter" />
+        <module name="system-business-notice" />
+        <module name="openapi-spring-boot-starter" />
+        <module name="file-sdk-aliyun" />
+        <module name="file-api" />
+        <module name="sms-sdk-aliyun" />
+        <module name="sms-sdk-tencent" />
+        <module name="file-business" />
+        <module name="pinyin-spring-boot-starter" />
+        <module name="seata-demo-order" />
+        <module name="system-api" />
+        <module name="mongodb-sdk-file" />
+        <module name="customer-business" />
+        <module name="ds-container-spring-boot-starter" />
+        <module name="demo-api" />
+        <module name="timer-business" />
+        <module name="i18n-business" />
+        <module name="db-api" />
+        <module name="openapi-api" />
+        <module name="cache-sdk-redis" />
+        <module name="ds-container-sdk" />
+        <module name="config-business" />
+        <module name="email-sdk-aliyun" />
+        <module name="system-integration-rest" />
+        <module name="dict-spring-boot-starter" />
+        <module name="system-business-role" />
+        <module name="memory-cache-spring-boot-starter" />
+        <module name="seata-demo-storage-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auth-api" target="1.8" />
+      <module name="auth-sdk" target="1.8" />
+      <module name="auth-spring-boot-starter" target="1.8" />
       <module name="cache-api" target="1.8" />
+      <module name="cache-sdk-memory" target="1.8" />
       <module name="cache-sdk-redis" target="1.8" />
+      <module name="config-api" target="1.8" />
+      <module name="config-business" target="1.8" />
+      <module name="config-sdk-map" target="1.8" />
+      <module name="config-sdk-redis" target="1.8" />
+      <module name="config-spring-boot-starter" target="1.8" />
+      <module name="customer-api" target="1.8" />
+      <module name="customer-business" target="1.8" />
+      <module name="customer-spring-boot-starter" target="1.8" />
       <module name="data-service" target="1.8" />
+      <module name="db-api" target="1.8" />
+      <module name="db-sdk-flyway" target="1.8" />
       <module name="db-sdk-init" target="1.8" />
       <module name="db-sdk-mp" target="1.8" />
+      <module name="db-spring-boot-starter" target="1.8" />
+      <module name="demo-api" target="1.8" />
+      <module name="demo-business" target="1.8" />
+      <module name="demo-spring-boot-starter" target="1.8" />
+      <module name="dict-api" target="1.8" />
+      <module name="dict-business" target="1.8" />
       <module name="dict-spring-boot-starter" target="1.8" />
+      <module name="ds-container-api" target="1.8" />
+      <module name="ds-container-business" target="1.8" />
+      <module name="ds-container-sdk" target="1.8" />
+      <module name="ds-container-spring-boot-starter" target="1.8" />
+      <module name="email-api" target="1.8" />
+      <module name="email-sdk-aliyun" target="1.8" />
+      <module name="email-sdk-java" target="1.8" />
+      <module name="email-spring-boot-starter" target="1.8" />
+      <module name="expand-api" target="1.8" />
+      <module name="expand-business" target="1.8" />
       <module name="expand-spring-boot-starter" target="1.8" />
+      <module name="file-api" target="1.8" />
+      <module name="file-business" target="1.8" />
       <module name="file-sdk-aliyun" target="1.8" />
+      <module name="file-sdk-local" target="1.8" />
+      <module name="file-sdk-minio" target="1.8" />
       <module name="file-sdk-tencent" target="1.8" />
       <module name="file-spring-boot-starter" target="1.8" />
       <module name="groovy-api" target="1.8" />
+      <module name="groovy-sdk" target="1.8" />
       <module name="groovy-spring-boot-starter" target="1.8" />
+      <module name="group-api" target="1.8" />
+      <module name="group-business" target="1.8" />
+      <module name="group-spring-boot-starter" target="1.8" />
       <module name="guns-base-support" target="1.8" />
       <module name="guns-cache" target="8" />
       <module name="guns-ckm" target="1.8" />
@@ -73,37 +211,128 @@
       <module name="guns-main" target="1.8" />
       <module name="guns-system" target="1.8" />
       <module name="i18n-api" target="1.8" />
+      <module name="i18n-business" target="1.8" />
+      <module name="i18n-sdk" target="1.8" />
+      <module name="i18n-spring-boot-starter" target="1.8" />
+      <module name="jwt-api" target="1.8" />
+      <module name="jwt-sdk" target="1.8" />
+      <module name="jwt-spring-boot-starter" target="1.8" />
+      <module name="kernel-a-rule" target="1.8" />
+      <module name="kernel-d-auth" target="1.8" />
       <module name="kernel-d-cache" target="1.8" />
+      <module name="kernel-d-config" target="1.8" />
+      <module name="kernel-d-db" target="1.8" />
+      <module name="kernel-d-ds-container" target="1.8" />
+      <module name="kernel-d-email" target="1.8" />
+      <module name="kernel-d-file" target="1.8" />
+      <module name="kernel-d-groovy" target="1.8" />
       <module name="kernel-d-i18n" target="1.8" />
+      <module name="kernel-d-jwt" target="1.8" />
+      <module name="kernel-d-log" target="1.8" />
+      <module name="kernel-d-mongodb" target="1.8" />
       <module name="kernel-d-office" target="1.8" />
+      <module name="kernel-d-openapi" target="1.8" />
+      <module name="kernel-d-pinyin" target="1.8" />
+      <module name="kernel-d-scanner" target="1.8" />
+      <module name="kernel-d-seata" target="1.8" />
+      <module name="kernel-d-security" target="1.8" />
       <module name="kernel-d-sms" target="1.8" />
+      <module name="kernel-d-socket" target="1.8" />
+      <module name="kernel-d-timer" target="1.8" />
+      <module name="kernel-d-validator" target="1.8" />
+      <module name="kernel-d-wrapper" target="1.8" />
       <module name="kernel-o-monitor" target="1.8" />
+      <module name="kernel-s-customer" target="1.8" />
+      <module name="kernel-s-demo" target="1.8" />
+      <module name="kernel-s-dict" target="1.8" />
+      <module name="kernel-s-expand" target="1.8" />
+      <module name="kernel-s-group" target="1.8" />
+      <module name="kernel-s-message" target="1.8" />
       <module name="kernel-s-migration" target="1.8" />
+      <module name="kernel-s-system" target="1.8" />
+      <module name="log-api" target="1.8" />
       <module name="log-business-login-log" target="1.8" />
+      <module name="log-business-manage" target="1.8" />
       <module name="log-business-requestapi" target="1.8" />
+      <module name="log-sdk-db" target="1.8" />
+      <module name="log-sdk-file" target="1.8" />
       <module name="log-spring-boot-starter" target="1.8" />
+      <module name="memory-cache-spring-boot-starter" target="1.8" />
+      <module name="message-api" target="1.8" />
+      <module name="message-business" target="1.8" />
+      <module name="message-sdk-db" target="1.8" />
+      <module name="message-spring-boot-starter" target="1.8" />
       <module name="migration-api" target="1.8" />
+      <module name="migration-business-web" target="1.8" />
+      <module name="migration-sdk-data-aggregation" target="1.8" />
+      <module name="migration-spring-boot-starter" target="1.8" />
       <module name="mongodb-api" target="1.8" />
       <module name="mongodb-integration-beetl" target="1.8" />
+      <module name="mongodb-sdk-file" target="1.8" />
       <module name="mongodb-sdk-springboot" target="1.8" />
+      <module name="mongodb-spring-boot-starter" target="1.8" />
       <module name="monitor-api" target="1.8" />
+      <module name="monitor-business-system-info" target="1.8" />
+      <module name="monitor-spring-boot-starter" target="1.8" />
       <module name="office-api" target="1.8" />
+      <module name="office-sdk-excel" target="1.8" />
+      <module name="office-spring-boot-starter" target="1.8" />
+      <module name="openapi-api" target="1.8" />
+      <module name="openapi-sdk-springdoc" target="1.8" />
+      <module name="openapi-spring-boot-starter" target="1.8" />
+      <module name="pinyin-api" target="1.8" />
+      <module name="pinyin-sdk-pinyin4j" target="1.8" />
+      <module name="pinyin-spring-boot-starter" target="1.8" />
+      <module name="redis-spring-boot-starter" target="1.8" />
+      <module name="roses-kernel" target="1.8" />
+      <module name="scanner-api" target="1.8" />
+      <module name="scanner-sdk-scanner" target="1.8" />
+      <module name="scanner-spring-boot-starter" target="1.8" />
+      <module name="seata-demo-order" target="1.8" />
+      <module name="seata-demo-storage-api" target="1.8" />
+      <module name="seata-demo-wallet-api" target="1.8" />
+      <module name="security-api" target="1.8" />
       <module name="security-sdk-black-white" target="1.8" />
       <module name="security-sdk-captcha" target="1.8" />
+      <module name="security-sdk-clear-threadlocal" target="1.8" />
       <module name="security-sdk-cors" target="1.8" />
       <module name="security-sdk-count" target="1.8" />
       <module name="security-sdk-database-field" target="1.8" />
+      <module name="security-sdk-request-encrypt-and-decode" target="1.8" />
+      <module name="security-sdk-xss" target="1.8" />
+      <module name="security-spring-boot-starter" target="1.8" />
+      <module name="sms-api" target="1.8" />
+      <module name="sms-business-validation" target="1.8" />
+      <module name="sms-sdk-aliyun" target="1.8" />
+      <module name="sms-sdk-tencent" target="1.8" />
+      <module name="sms-spring-boot-starter" target="1.8" />
+      <module name="socket-api" target="1.8" />
+      <module name="socket-business-websocket" target="1.8" />
+      <module name="socket-spring-boot-starter" target="1.8" />
+      <module name="system-api" target="1.8" />
+      <module name="system-business-app" target="1.8" />
+      <module name="system-business-home" target="1.8" />
       <module name="system-business-menu" target="1.8" />
       <module name="system-business-notice" target="1.8" />
+      <module name="system-business-organization" target="1.8" />
       <module name="system-business-resource" target="1.8" />
+      <module name="system-business-role" target="1.8" />
+      <module name="system-business-theme" target="1.8" />
+      <module name="system-business-user" target="1.8" />
+      <module name="system-integration-beetl" target="1.8" />
       <module name="system-integration-rest" target="1.8" />
+      <module name="system-spring-boot-starter" target="1.8" />
+      <module name="timer-api" target="1.8" />
       <module name="timer-business" target="1.8" />
       <module name="timer-sdk-hutool" target="1.8" />
       <module name="timer-spring-boot-starter" target="1.8" />
       <module name="trs-separation-ent" target="1.8" />
+      <module name="validator-api" target="1.8" />
       <module name="validator-api-table-unique" target="1.8" />
       <module name="validator-spring-boot-starter" target="1.8" />
+      <module name="wrapper-api" target="1.8" />
       <module name="wrapper-field-sdk" target="1.8" />
+      <module name="wrapper-sdk" target="1.8" />
       <module name="wrapper-spring-boot-starter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
